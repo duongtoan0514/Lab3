@@ -1,0 +1,6 @@
+@ECommerece.API_HostAddress = http://localhost:5019
+
+GET {{ECommerece.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
